@@ -1,4 +1,4 @@
-# Yelp Data Analysis #
+## Yelp Data Analysis ##
 ## General Background 
 Yelp data challenge is a competition held by Yelp to encourage students to come up with innovative insights of their data. The Yelp dataset released for 2017 winter challenge contains information for 144 thousand businesses. This dataset has  4.1 million reviews for these business, 1 million users and 125 thousand check-in sets. 
 
