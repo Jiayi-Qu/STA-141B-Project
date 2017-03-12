@@ -1,5 +1,23 @@
 # Data analysis of Yelp database##
-## General Background and Project Goal
+## General Background 
+Yelp data challenge is a competition held by Yelp to encourage students to come up with innovative insights of their data. The Yelp dataset released for 2017 winter challenge contains information for 144 thousand businesses. This dataset has  4.1 million reviews for these business, 1 million users and 125 thousand check-in sets. 
+
+
+## Goal
+- Explore the relation between the user behaviors(rating values and reviews) and business attributes. 
+- Predict the user’s rating stars given the reviews they left by application of machine learning.
+
+## Methodology 
+- Natural language processing
+- Data visualization 
+- Geographical data analysis
+- (Possible) Multi-class classification (logistic regression, KNN classification) to build predictive model 
+
+
+
+## Preliminary Result 
+
+## Futurn exploration
 
 You can use the [editor on GitHub](https://github.com/Jiayi-Qu/STA-141B-Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -36,9 +54,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-## Data Description
-
-## Preliminary Result 
-
-## Futurn exploration
