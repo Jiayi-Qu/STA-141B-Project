@@ -14,7 +14,7 @@ Yelp data challenge is a competition held by Yelp to encourage students to come 
 - (Possible) Multi-class classification (logistic regression, KNN classification) to build predictive model 
 
 ## Data extraction 
-The first thing we noticed was that the huge size of the data made difficult loading. In order to extract the data, we load the dataset into a Jupyter Notebook running on an Amazon Web Service(AWS) spot instance.
+The first thing we noticed was that the huge size of the data made difficulty in loading. In order to extract the data, we load the dataset into a Jupyter Notebook running on an Amazon Web Service(AWS) spot instance.
 
 ## Preliminary Result 
 
