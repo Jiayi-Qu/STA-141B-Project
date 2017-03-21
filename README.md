@@ -21,4 +21,4 @@ For data analsis, we use multi-class classification in Machine Learning where th
 
 ## Data Analysis
 
-![](https://github.com/Jiayi-Qu/STA-141B-Project/blob/master/Picture1.png)
+
